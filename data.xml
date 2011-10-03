@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hessenschulden>
+	<version>1</version>
+
+	<einwohner>6068000</einwohner>
+	<schuldenstand am="1316941420">39995045108</schuldenstand>
+	<defizit>60.2486</defizit>
+
+	<kommunen>
+		<kommune name="Kreis Bergstraße">
+			<einwohner>262650</einwohner>
+			<schuldenstand am="01.01.2009">307495000</schuldenstand>
+			<defizit>25469000</defizit>
+
+			<gemeinden>
+				<gemeinde name="Heppenheim">
+					<einwohner>25266</einwohner>
+					<schuldenstand am="01.01.2009">54949000</schuldenstand>
+					<defizit>15170000</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Darmstadt">
+			<einwohner>144402</einwohner>
+			<schuldenstand am="01.01.2011">307495000</schuldenstand>
+			<defizit>95090000</defizit>
+		</kommune>
+
+		<kommune name="Kreis Darmstadt-Dieburg">
+			<einwohner>289199</einwohner>
+			<schuldenstand am="01.01.0000">35133000</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Pfungstadt">
+					<einwohner>24615</einwohner>
+					<schuldenstand am="01.01.0000">15241000</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Frankfurt am Main">
+			<einwohner>679664</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+		</kommune>
+
+		<kommune name="Kreis Fulda">
+			<einwohner>217255</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Fulda">
+					<einwohner>64349</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Gießen">
+			<einwohner>256473</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Gießen">
+					<einwohner>77366</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Groß-Gerau">
+			<einwohner>254887</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Rüsselsheim">
+					<einwohner>60294</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Hersfeld-Rotenburg">
+			<einwohner>122233</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Bad Hersfeld">
+					<einwohner>30087</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Hochtaunuskreis">
+			<einwohner>227425</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Bad Homburg vor der Höhe">
+					<einwohner>52229</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kassel">
+			<einwohner>193112</einwohner>
+			<schuldenstand am="13.07.2011">672000000</schuldenstand>
+			<defizit>70800000</defizit>
+		</kommune>
+
+		<kommune name="Kreis Kassel">
+			<einwohner>236986</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Baunatal">
+					<einwohner>27642</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Lahn-Dill-Kreis">
+			<einwohner>253553</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Wetzlar">
+					<einwohner>51499</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Limburg-Weilburg">
+			<einwohner>170714</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Limburg an der Lahn">
+					<einwohner>33400</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Main-Kinzig-Kreis">
+			<einwohner>407234</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Hanau">
+					<einwohner>88637</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Main-Taunus-Kreis">
+			<einwohner>227398</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Hofheim am Taunus">
+					<einwohner>38253</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Marburg-Biedenkopf">
+			<einwohner>251080</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Marburg">
+					<einwohner>80656</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Odenwaldkreis">
+			<einwohner>97032</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Michelstadt">
+					<einwohner>16573</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Offenbach am Main">
+			<einwohner>120435</einwohner>
+			<schuldenstand am="01.01.0000">0</schuldenstand>
+			<defizit>0</defizit>
+		</kommune>
+
+		<kommune name="Kreis Offenbach">
+			<einwohner>338061</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Rodgau">
+					<einwohner>43283</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Rheingau-Taunus-Kreis">
+			<einwohner>183125</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Taunusstein">
+					<einwohner>28963</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Schwalm-Eder-Kreis">
+			<einwohner>182622</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Schwalmstadt">
+					<einwohner>18586</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Vogelsbergkreis">
+			<einwohner>109451</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Alsfeld">
+					<einwohner>16351</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Kreis Waldeck-Frankenberg">
+			<einwohner>161871</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Frankenberg">
+					<einwohner>18807</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Werra-Meißner-Kreis">
+			<einwohner>103750</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Eschwege">
+					<einwohner>19882</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Wetteraukreis">
+			<einwohner>298015</einwohner>
+			<schuldenstand am="01.01.2011">425917322</schuldenstand>
+			<defizit>0</defizit>
+			<gemeinden>
+				<gemeinde name="Bad Nauheim">
+					<einwohner>31176</einwohner>
+					<schuldenstand am="01.01.0000">0</schuldenstand>
+					<defizit>0</defizit>
+				</gemeinde>
+			</gemeinden>
+		</kommune>
+
+		<kommune name="Wiesbaden">
+			<einwohner>275976</einwohner>
+			<schuldenstand am="01.01.2000">0</schuldenstand>
+			<defizit>0</defizit>
+		</kommune>
+	</kommunen>
+</hessenschulden>
